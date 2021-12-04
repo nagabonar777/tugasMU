@@ -1,0 +1,19 @@
+1. Tuliskan 2 toolbar yang ada di home dan fungsinya?
+   Jawab: font untuk mengatur huruf 
+    	  clipboard  mengelola papan klip 
+
+2. Apa shortcut untuk mengcopy & paste
+   Jawab : ctrl+ c dan ctrl+ v
+
+3. Kombinasi tombol apa yang digunakan untuk 
+   menyalin teks ?
+   Jawab : ctrl+ c
+
+4. Apa itu Ms.Word ?
+   Jawab : Ms.Word adalah aplikasi pengelah kata yang dibuat oleh microsoft
+
+5. Apa fungsi dari Bold,Italic,dan Underline pada Ms.Word?
+   Jawab : 
+          Bold       :untuk menebalkan huruf
+          Italic     :untuk memiringkan huruf
+          Underline  :untuk menggaris bawahi huruf
